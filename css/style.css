@@ -1,0 +1,61 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.admin-box{
+    background-color: rgb(64, 236, 248);
+    color:rgb(226, 15, 180);
+    width: 300px;
+    margin-top: 50px !important;
+    margin: auto;
+    padding: 25px;
+    text-align: center ;
+    border-radius: 20px;
+}
+
+form{
+    margin: 20px;
+}
+label{
+    display: block;
+    text-align: start;
+}
+input{
+    display: block;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 10px ;
+    border-radius: 10px;
+}
+input[type="submit"] {
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+a {
+    color:rgb(233, 22, 233);
+    text text-decoration: none;
+    text-align: end;
+    display: block;
+}
+p {
+    margin-top: 20px;
+}
+p a {
+    color: rgb(73, 19, 223);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+body{
+    background: url('../img/BG\ 2.jpg') no-repeat;
+    background-size: cover;
+    -wenkit-background-size: cover;
+}
+span {
+    border: 2x solid rgb(19, 236, 102);
+    display: block;
+    width: 100%;
+    margin: 20px auto;
+} */
